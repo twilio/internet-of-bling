@@ -4,7 +4,7 @@ It looks like you've found yourself an Internet of Bling device, just like those
 
 Great news! But what now? 
 
-Read on to learn more about the Internet of Bling - the world's first (afawk) programmable bling platform. This README will show you how to claim the included Twilio SIM card to your Twilio account, how to claim the included Particle Electron to your Particle account, and how to deploy your first IoT app. 
+Read on to learn more about the Internet of Bling - the world's first (afawk) programmable bling platform. This README will show you how to claim the included Twilio SIM card to your Twilio account, how to claim the included Particle Electron to your Particle account, and how to deploy your first ~~IoT~~ IoB app. 
 
 If you're already a Particle expert, please feel free to jump to the last section of this doc.
 
