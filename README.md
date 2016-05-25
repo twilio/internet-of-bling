@@ -65,7 +65,7 @@ Next, visit https://setup.particle.io/ and sign in if required.
 
 
 ## Pick up your included accessories: breadboard, full-size antenna, USB charger and more. 
-The standard accessories that ship with a Particle Electron are waiting for you at the Hackpack Station of SIGNAL. Just tell a Twilio employee that you're there to collect the accessories for your Internet of Bling Electron.
+The standard accessories that ship with a Particle Electron are waiting for you at the Information Desk, downstairs in the Cruise Ship Terminal at SIGNAL 2016. Just tell a Twilio employee that you're there to collect the accessories for your Internet of Bling Electron.
 
 ## Deploy your first app
 Deploy your first app over-the-air from [Particle Build](https://build.particle.io). For more example code designed to work with the Neopixel ring, check out the [Neopixel sample library](https://build.particle.io/libs/5689c7e20ae26f19c80016be). 
