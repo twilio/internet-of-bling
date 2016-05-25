@@ -75,8 +75,8 @@ void setup()
 void loop()
 {
     if (newSMS > 0) {
-      body = checkUnreadSMS();
-      if (body != NULL) {
+      smsBody = checkUnreadSMS();
+      if (smsBody != NULL) {
           smsCommandSetState(body);
       }
       if (newSMS > 0) newSMS--;
